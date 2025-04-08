@@ -15,3 +15,8 @@ Please refer to the CONFIGURATION section of the code.
 In a given Google Sheet, open the Extensions menu, then click on Apps Script.
 Copy paste the code in, and modify the configuration variables.
 Refresh your google sheet, and there will be a new menu option.
+
+
+![Calendar Import Menu Option](menu-option.png)
+
+![Color Selection](color-selection.png)
