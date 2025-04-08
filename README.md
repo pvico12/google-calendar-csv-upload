@@ -20,3 +20,7 @@ Refresh your google sheet, and there will be a new menu option.
 ![Calendar Import Menu Option](menu-option.png)
 
 ![Color Selection](color-selection.png)
+
+
+## Disclaimer
+Depending on number of events you are importing, you may be rate limited! Add some sleeping functions within the codebase to avoid this.
